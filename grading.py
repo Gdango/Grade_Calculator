@@ -156,27 +156,3 @@ def print_grades(names, scores, grades):
 
 
 main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
